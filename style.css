@@ -1,0 +1,40 @@
+*{
+    background-color: #FFF5E4;
+}
+
+.baker-bees, .nav-link:hover,
+.nav-link.active{
+    color: #850E35;
+}
+
+#img{
+    height: 130px;
+    width: 180px;
+    display: flex;
+    clip-path: circle();
+}
+
+.nav-link {
+    color:  #EE6983;
+    margin-left: 20px;
+}
+
+#searchbar{
+    background-color: #EE6983;
+    color: #fff;
+    margin-right: 30px;
+}
+
+#bar{
+    margin-right: 10px;
+} 
+
+#btn{
+    color: #FFF5E4;
+    background-color: #EE6983;
+}
+
+#offcanvasRightLabel, .offcanvas-header{
+    color: #EE6983;
+    background-color: #FFF5E4;
+}
